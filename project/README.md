@@ -4,4 +4,4 @@
 Всё расписано в `main.ipynb`. Код написан с расчётом на запуск в коллабе, так что используется синк с гугл диском(не уверен, что это будет работать в локеле).
 
 ## Данные
-Все данные лежит на [диске](https://drive.google.com/drive/folders/1-KMTxh9yKeC3acdmwo88oUwJYkUdfYtC?usp=drive_link).
+Все данные лежит на [диске](https://drive.google.com/drive/folders/1-KMTxh9yKeC3acdmwo88oUwJYkUdfYtC?usp=sharing).
